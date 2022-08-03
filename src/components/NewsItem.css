@@ -1,0 +1,29 @@
+.news-item {
+    width: 326px;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 3px 3px 10px #00000033;
+}
+
+.news-item a {
+    text-decoration: none;
+}
+
+.news-image {
+    margin-bottom: 10px;
+}
+
+.news-title {
+    font-size: 1.5rem;
+    line-height: 1.9rem;
+}
+
+.news-image {
+    width: 100%;
+    height: 200px;
+}
+.article-info{
+    font-size: 0.9rem;
+    color: #00000085;
+}
